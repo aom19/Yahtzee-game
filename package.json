@@ -2,6 +2,7 @@
   "name": "yahtzee",
   "version": "0.1.0",
   "private": true,
+  "Homepage" :https://github.com/aom19/Yahtzee-game
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
